@@ -1,7 +1,7 @@
 # people_detect_us
 行人检测摔倒警报
 
-writen by TingYU
+writen by Ting Yu
 
 I'm glad to discuss with others
 
